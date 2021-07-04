@@ -1,0 +1,38 @@
+{
+    "panel":{  
+    "token": "BOT_TOKEN",
+    "owner": ["730448609790787585",""],
+    "prefix": "!",
+    "language": "en"
+    },
+
+    "channellist": {
+        "CommandLog": "855848367133163550",
+        "voicechannel": "855847881146761230",
+        "applicationchannel": "858541832165785610",
+        "applicationlog": "858542127976808498",
+        "acceptreject": "860806096691789865"
+    },
+
+    "application": {
+        "role": ["860793997663141908","860796115480870912"],
+        "authorized": ["860805612412731393"],
+        "invitestaff": ["860794047177031710","860794096237805578"],
+        "voicestaff": ["860794178123857920","860794185002778664"],
+        "chatstaff": ["860794187758305300","860794299129659392"],
+        "registerstaff": ["860794139943763988","860794210273198110"]
+    },
+
+    "tag":{
+    "needed": false,
+    "tagrol": "860600580762107924"
+    },
+
+    "emojis":{
+        "tickemoji": "<:botcutick:860793659577860116>",
+        "tickemojireact": "860793659577860116",
+
+        "crossemoji": "<:botcucross:860793888582664202>",
+        "crossemojireact": "860793888582664202"
+    }
+}
